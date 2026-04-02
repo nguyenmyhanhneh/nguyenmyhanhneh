@@ -124,4 +124,4 @@
 | :--- | :--- |
 | 📋 **Test Case Detailed** | [🔗 Xem trên Sharepoint](https://studenthcmupedu-my.sharepoint.com/:x:/g/personal/4901104039_student_hcmue_edu_vn/IQD7np3ue0uxQY8Gs4nr2FFSAZQXXNpC7djTQa-3O1qGSwI?e=Dldiog) |
 | 📮 **Postman Collection** | [🔗 Thử thực thi API](https://api.postman.com/collections/51379608-421fd498-1fe2-440c-a51e-a6c1d23d45f2?access_key=PMAT-01KKPKERQ602D6S96R3H8D8EVX) |
-| 🎨 **UI/UX Design** | [🔗 Xem Prototype trên Figma]([link-figma-cua-hanh-neu-co](https://www.figma.com/design/AF4wqwfPGKKbDlouqKxdg0/Fashion-shop?node-id=0-1&t=Iiq77QAVBWJ9P5mL-1)) |
+| 🎨 **UI/UX Design** | [🔗 Xem Prototype trên Figma](https://www.figma.com/design/AF4wqwfPGKKbDlouqKxdg0/Fashion-shop?node-id=0-1&t=Iiq77QAVBWJ9P5mL-1) |
