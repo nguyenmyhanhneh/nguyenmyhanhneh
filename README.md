@@ -45,8 +45,7 @@
 - **Công cụ:** Excel, Google Sheets, Figma  
 
 📸 **Test Case:**  
-<img src="Screenshot 2026-04-02 235144.png" width="600"/>
-
+<img src="Screenshot 2026-04-02 234444.png" width="600"/>
 ---
 
 #### 📝 Requirement Analysis & UI/UX Design
@@ -86,7 +85,7 @@
 - **Công cụ:** Postman  
 
 📸 **API Testing:**  
-<img src="Screenshot 2026-04-02 234444.png" width="600"/>
+<img src="Screenshot 2026-04-02 235144.png" width="600"/>
 
 ---
 
