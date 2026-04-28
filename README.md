@@ -1,5 +1,5 @@
 ## 🌐 Portfolio Website
-👉 [https://nguyenmyhanhneh.github.io/](https://github.com/nguyenmyhanhneh)
+👉 ([https://github.com/nguyenmyhanhneh](https://nguyenmyhanhneh.github.io/))
 
 ---
 
